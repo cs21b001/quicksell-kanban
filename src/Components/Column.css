@@ -1,0 +1,31 @@
+.column {
+  padding: 10px;
+  width: 18%;
+}
+.col-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+.head-start {
+  display: inline-flex;
+  align-items: center;
+}
+.head-start img {
+  margin-right: 10px;
+  vertical-align: middle;
+}
+.head-end {
+  display: inline-flex;
+  align-items: center;
+}
+.head-end img {
+  margin-right: 10px;
+  vertical-align: middle;
+}
+.column h2 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 10px;
+}
